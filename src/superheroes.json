@@ -1,0 +1,30 @@
+
+[
+{
+    "avatar": "https://cdnstatic.rg.ru/uploads/images/224/98/74/bet.jpg",
+    "name": "Бэтмэн",
+    "universe": "DC Comics",
+    "alter": "Брюс Уэйн",
+    "activity": "борец с преступностью, филантроп, миллиардер",
+    "friends": "Робин, Бэтгерл",
+    "superpower": "интеллект, обширные познания, знания боевых искусств, ловкость"
+},
+{
+    "avatar": "https://img.championat.com/c/900x900/news/big/w/w/velichajshij-supermen-vseh-vremyon-zak-snajder-o-vozvraschenii-genri-kavilla-k-roli-geroya_16668524662058544203.jpg",
+    "name": "Супермен",
+    "universe": "DC Comics",
+    "alter": "Кларк Кент",
+    "activity": "борец за справедливость",
+    "friends": "собака Крипто",
+    "superpower": "непробиваемость, суперсила, полет, самоисцеление, суперзрение и суперслух, классный костюм"
+},
+{
+    "avatar": "https://upload.wikimedia.org/wikipedia/ru/thumb/a/a5/Iron_man.jpg/224px-Iron_man.jpg",
+    "name": "Железный человек",
+    "universe": "Marvel Comics",
+    "alter": "Тони Старк",
+    "activity": "гений, миллиардер, плейбой, филантроп",
+    "friends": "Мстители",
+    "superpower": "высокий уровень интеллекта, широкие познания науки и техники, связь со всемирной паутиной, бронекостюмы"
+}
+]
